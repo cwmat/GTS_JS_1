@@ -1,0 +1,80 @@
+
+ 
+05-15-16 18:08:52 | GET detected
+05-15-16 18:08:52 | Pinged
+ 
+05-15-16 18:09:31 | GET detected
+05-15-16 18:09:31 | ips table created!
+05-15-16 18:09:31 | clicks table created!
+05-15-16 18:09:32 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-15-16 18:09:32 | Ok to proxy
+05-15-16 18:09:32 | Proxy complete
+ 
+05-18-16 03:57:19 | GET detected
+05-18-16 03:57:19 | Proxy could not resolve requested url - http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Specialty/ESRI_StateCityHighway_USA/MapServer/2/query.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-18-16 03:58:58 | GET detected
+05-18-16 03:58:58 | Proxy could not resolve requested url - http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Specialty/ESRI_StateCityHighway_USA/MapServer/2.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-18-16 03:59:26 | GET detected
+05-18-16 03:59:26 | Proxy could not resolve requested url - http://sampleserver1.arcgisonline.com/ArcGIS/rest.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+05-18-16 04:00:50 | GET detected
+05-18-16 04:00:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-18-16 04:00:50 | Ok to proxy
+05-18-16 04:00:50 | Proxy complete
+ 
+05-18-16 04:02:06 | GET detected
+05-18-16 04:02:06 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-18-16 04:02:06 | Ok to proxy
+05-18-16 04:02:06 | Proxy complete
+ 
+05-18-16 04:11:14 | GET detected
+05-18-16 04:11:14 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-18-16 04:11:14 | Ok to proxy
+05-18-16 04:11:14 | Proxy complete
+ 
+05-18-16 04:11:35 | GET detected
+05-18-16 04:11:35 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-18-16 04:11:36 | Ok to proxy
+05-18-16 04:11:36 | Proxy complete
+ 
+05-18-16 04:22:41 | GET detected
+05-18-16 04:22:41 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-18-16 04:22:41 | Ok to proxy
+05-18-16 04:22:41 | Proxy complete
+ 
+05-22-16 16:40:41 | GET detected
+05-22-16 16:40:41 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 16:40:41 | Ok to proxy
+05-22-16 16:40:41 | Proxy complete
+ 
+05-22-16 16:47:00 | GET detected
+05-22-16 16:47:00 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 16:47:01 | Ok to proxy
+05-22-16 16:47:01 | Proxy complete
+ 
+05-22-16 16:47:05 | GET detected
+05-22-16 16:47:05 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 16:47:05 | Ok to proxy
+05-22-16 16:47:05 | Proxy complete
+ 
+05-22-16 16:48:08 | GET detected
+05-22-16 16:48:08 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 16:48:08 | Ok to proxy
+05-22-16 16:48:08 | Proxy complete
+ 
+05-22-16 17:11:41 | GET detected
+05-22-16 17:11:41 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 17:11:42 | Ok to proxy
+05-22-16 17:11:42 | Proxy complete
+ 
+05-22-16 18:01:56 | GET detected
+05-22-16 18:01:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 18:01:56 | Ok to proxy
+05-22-16 18:01:56 | Proxy complete
+ 
+05-22-16 18:39:26 | GET detected
+05-22-16 18:39:26 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+05-22-16 18:39:26 | Ok to proxy
+05-22-16 18:39:26 | Proxy complete
